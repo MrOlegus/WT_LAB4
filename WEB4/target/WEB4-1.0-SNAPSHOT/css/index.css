@@ -1,0 +1,15 @@
+.EnterForm 
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.InputEmail, .InputPassword
+{
+    width: 300px;
+}
+
+.ButtonSignin, .ButtonSignup
+{
+    width: 150px;
+}

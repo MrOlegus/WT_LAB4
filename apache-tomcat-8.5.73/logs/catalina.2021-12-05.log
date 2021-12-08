@@ -1,0 +1,1157 @@
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.73
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 11 2021 13:14:36 UTC
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.73.0
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-12.0.2
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            12+33
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\logging.properties
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-9VNKMU9
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\temp
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+05-Dec-2021 01:00:28.023 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [{4}].
+05-Dec-2021 01:00:28.033 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Dec-2021 01:00:28.033 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+05-Dec-2021 01:00:28.103 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 01:00:28.283 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Dec-2021 01:00:28.293 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 633 ms
+05-Dec-2021 01:00:28.333 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Dec-2021 01:00:28.333 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.73]
+05-Dec-2021 01:00:28.343 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs]
+05-Dec-2021 01:00:28.693 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [140] milliseconds.
+05-Dec-2021 01:00:28.713 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs] has finished in [370] ms
+05-Dec-2021 01:00:28.713 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples]
+05-Dec-2021 01:00:29.103 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples] has finished in [390] ms
+05-Dec-2021 01:00:29.103 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager]
+05-Dec-2021 01:00:29.143 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager] has finished in [40] ms
+05-Dec-2021 01:00:29.143 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager]
+05-Dec-2021 01:00:29.183 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager] has finished in [40] ms
+05-Dec-2021 01:00:29.193 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT]
+05-Dec-2021 01:00:29.223 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT] has finished in [30] ms
+05-Dec-2021 01:00:29.223 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 01:00:29.243 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 950 ms
+05-Dec-2021 01:00:34.602 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 01:00:34.752 INFO [http-nio-8080-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 01:00:34.772 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [170] ms
+05-Dec-2021 01:00:34.782 INFO [http-nio-8080-exec-3] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 01:00:35.552 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 01:00:35.590 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 01:00:35.882 INFO [http-nio-8080-exec-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 01:00:35.943 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [352] ms
+05-Dec-2021 01:00:36.004 INFO [http-nio-8080-exec-6] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 01:01:23.270 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 01:01:23.280 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 01:01:23.490 INFO [http-nio-8080-exec-11] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 01:01:23.510 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [230] ms
+05-Dec-2021 01:01:23.510 INFO [http-nio-8080-exec-14] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 01:01:24.081 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 01:01:24.090 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 01:01:24.190 INFO [http-nio-8080-exec-11] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 01:01:24.210 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [120] ms
+05-Dec-2021 01:01:24.220 INFO [http-nio-8080-exec-18] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 01:02:59.758 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Dec-2021 01:02:59.758 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 01:02:59.906 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Dec-2021 01:02:59.921 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 01:02:59.921 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 15:09:43.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.73
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 11 2021 13:14:36 UTC
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.73.0
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-12.0.2
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            12+33
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\logging.properties
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-9VNKMU9
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\temp
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+05-Dec-2021 15:09:43.704 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [{4}].
+05-Dec-2021 15:09:43.715 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Dec-2021 15:09:43.815 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+05-Dec-2021 15:09:43.934 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 15:09:44.174 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Dec-2021 15:09:44.184 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1323 ms
+05-Dec-2021 15:09:44.274 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Dec-2021 15:09:44.274 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.73]
+05-Dec-2021 15:09:44.304 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:09:45.064 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:09:45.254 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [159] milliseconds.
+05-Dec-2021 15:09:45.274 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [970] ms
+05-Dec-2021 15:09:45.274 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs]
+05-Dec-2021 15:09:45.374 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs] has finished in [100] ms
+05-Dec-2021 15:09:45.374 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples]
+05-Dec-2021 15:09:47.144 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples] has finished in [1 770] ms
+05-Dec-2021 15:09:47.144 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager]
+05-Dec-2021 15:09:47.364 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager] has finished in [220] ms
+05-Dec-2021 15:09:47.364 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager]
+05-Dec-2021 15:09:47.825 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager] has finished in [451] ms
+05-Dec-2021 15:09:47.825 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT]
+05-Dec-2021 15:09:47.994 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT] has finished in [169] ms
+05-Dec-2021 15:09:48.114 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 15:09:48.285 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 4104 ms
+05-Dec-2021 15:09:52.775 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:09:52.805 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:09:52.934 INFO [http-nio-8080-exec-10] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:09:52.954 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [149] ms
+05-Dec-2021 15:09:52.954 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:13:52.919 INFO [http-nio-8080-exec-18] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:13:52.929 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:13:53.039 INFO [http-nio-8080-exec-15] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:13:53.049 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [120] ms
+05-Dec-2021 15:13:53.059 INFO [http-nio-8080-exec-12] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:17:42.072 INFO [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:17:42.081 INFO [http-nio-8080-exec-27] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:17:42.191 INFO [http-nio-8080-exec-27] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:17:42.211 INFO [http-nio-8080-exec-27] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [130] ms
+05-Dec-2021 15:17:42.221 INFO [http-nio-8080-exec-15] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:21:15.935 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:21:15.945 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:21:16.045 INFO [http-nio-8080-exec-30] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:21:16.055 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 15:21:16.065 INFO [http-nio-8080-exec-38] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:24:49.038 INFO [http-nio-8080-exec-47] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:24:49.538 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:24:49.547 INFO [http-nio-8080-exec-46] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:24:49.647 INFO [http-nio-8080-exec-46] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:24:49.657 INFO [http-nio-8080-exec-46] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 15:24:49.667 INFO [http-nio-8080-exec-43] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:31:43.977 INFO [http-nio-8080-exec-57] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:31:44.007 INFO [http-nio-8080-exec-58] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:31:44.107 INFO [http-nio-8080-exec-58] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:31:44.117 INFO [http-nio-8080-exec-58] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 15:31:44.117 INFO [http-nio-8080-exec-52] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:32:39.403 INFO [http-nio-8080-exec-62] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:32:39.413 INFO [http-nio-8080-exec-60] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:32:39.512 INFO [http-nio-8080-exec-60] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:32:39.522 INFO [http-nio-8080-exec-60] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [109] ms
+05-Dec-2021 15:32:39.532 INFO [http-nio-8080-exec-52] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:33:14.404 INFO [http-nio-8080-exec-65] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:33:14.413 INFO [http-nio-8080-exec-52] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:33:14.513 INFO [http-nio-8080-exec-52] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:33:14.523 INFO [http-nio-8080-exec-52] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 15:33:14.533 INFO [http-nio-8080-exec-66] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:33:27.122 INFO [http-nio-8080-exec-69] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:33:27.132 INFO [http-nio-8080-exec-60] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:33:27.222 INFO [http-nio-8080-exec-60] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:33:27.242 INFO [http-nio-8080-exec-60] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 15:33:27.242 INFO [http-nio-8080-exec-70] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:34:35.731 INFO [http-nio-8080-exec-75] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:34:35.740 INFO [http-nio-8080-exec-70] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:34:35.830 INFO [http-nio-8080-exec-70] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:34:35.840 INFO [http-nio-8080-exec-70] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 15:34:35.850 INFO [http-nio-8080-exec-71] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:35:25.662 INFO [http-nio-8080-exec-78] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:35:25.672 INFO [http-nio-8080-exec-80] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:35:25.762 INFO [http-nio-8080-exec-80] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:35:25.782 INFO [http-nio-8080-exec-80] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 15:35:25.782 INFO [http-nio-8080-exec-79] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:37:37.742 INFO [http-nio-8080-exec-74] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:37:37.752 INFO [http-nio-8080-exec-80] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:37:37.932 INFO [http-nio-8080-exec-80] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:37:37.942 INFO [http-nio-8080-exec-80] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [190] ms
+05-Dec-2021 15:37:37.952 INFO [http-nio-8080-exec-79] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:39:10.605 INFO [http-nio-8080-exec-92] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:39:11.115 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:39:11.125 INFO [http-nio-8080-exec-80] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:39:11.214 INFO [http-nio-8080-exec-80] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:39:11.224 INFO [http-nio-8080-exec-80] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [99] ms
+05-Dec-2021 15:39:11.234 INFO [http-nio-8080-exec-79] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:39:59.578 INFO [http-nio-8080-exec-96] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:39:59.587 INFO [http-nio-8080-exec-82] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:39:59.677 INFO [http-nio-8080-exec-82] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:39:59.687 INFO [http-nio-8080-exec-82] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 15:39:59.687 INFO [http-nio-8080-exec-91] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:41:21.055 INFO [http-nio-8080-exec-95] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:41:21.065 INFO [http-nio-8080-exec-91] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:41:21.155 INFO [http-nio-8080-exec-91] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:41:21.165 INFO [http-nio-8080-exec-91] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 15:41:21.175 INFO [http-nio-8080-exec-102] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:43:26.211 INFO [http-nio-8080-exec-102] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:43:26.221 INFO [http-nio-8080-exec-110] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:43:26.311 INFO [http-nio-8080-exec-110] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:43:26.321 INFO [http-nio-8080-exec-110] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 15:43:26.321 INFO [http-nio-8080-exec-109] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:51:19.888 INFO [http-nio-8080-exec-122] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:51:19.897 INFO [http-nio-8080-exec-117] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:51:19.987 INFO [http-nio-8080-exec-117] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:51:19.997 INFO [http-nio-8080-exec-117] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 15:51:20.007 INFO [http-nio-8080-exec-120] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:52:19.614 INFO [http-nio-8080-exec-126] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:52:19.624 INFO [http-nio-8080-exec-118] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:52:19.706 INFO [http-nio-8080-exec-118] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:52:19.726 INFO [http-nio-8080-exec-118] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [102] ms
+05-Dec-2021 15:52:19.726 INFO [http-nio-8080-exec-120] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:53:10.203 INFO [http-nio-8080-exec-129] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:53:10.213 INFO [http-nio-8080-exec-118] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:53:10.313 INFO [http-nio-8080-exec-118] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:53:10.333 INFO [http-nio-8080-exec-118] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [120] ms
+05-Dec-2021 15:53:10.333 INFO [http-nio-8080-exec-120] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 15:54:11.904 INFO [http-nio-8080-exec-120] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:54:12.405 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 15:54:12.414 INFO [http-nio-8080-exec-135] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 15:54:12.504 INFO [http-nio-8080-exec-135] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 15:54:12.514 INFO [http-nio-8080-exec-135] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 15:54:12.524 INFO [http-nio-8080-exec-136] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:14:01.158 INFO [http-nio-8080-exec-146] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:14:01.188 INFO [http-nio-8080-exec-145] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:14:01.278 INFO [http-nio-8080-exec-145] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:14:01.298 INFO [http-nio-8080-exec-145] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 16:14:01.298 INFO [http-nio-8080-exec-138] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:14:56.810 INFO [http-nio-8080-exec-150] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:14:56.819 INFO [http-nio-8080-exec-148] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:14:56.909 INFO [http-nio-8080-exec-148] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:14:56.929 INFO [http-nio-8080-exec-148] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 16:14:56.929 INFO [http-nio-8080-exec-138] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:15:38.592 INFO [http-nio-8080-exec-154] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:15:38.602 INFO [http-nio-8080-exec-138] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:15:38.692 INFO [http-nio-8080-exec-138] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:15:38.702 INFO [http-nio-8080-exec-138] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 16:15:38.712 INFO [http-nio-8080-exec-147] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:16:19.271 INFO [http-nio-8080-exec-150] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:16:19.280 INFO [http-nio-8080-exec-138] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:16:19.340 SEVERE [http-nio-8080-exec-138] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:537)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1682)
+		at jdk.internal.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:291)
+		at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+		at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+		at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1583)
+		at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:994)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:351)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:661)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:378)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:56)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1673)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:835)
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [MainServlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3205)
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3196)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1338)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1115)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:779)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5130)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 47 more
+05-Dec-2021 16:16:19.521 SEVERE [http-nio-8080-exec-138] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:757)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:537)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1682)
+		at jdk.internal.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:291)
+		at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+		at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+		at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1583)
+		at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:994)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:351)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:661)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:378)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:56)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1673)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:835)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		... 46 more
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [MainServlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3205)
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3196)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1338)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1115)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:779)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5130)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 47 more
+05-Dec-2021 16:16:19.601 INFO [http-nio-8080-exec-138] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [321] ms
+05-Dec-2021 16:16:20.251 INFO [http-nio-8080-exec-138] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:16:20.260 INFO [http-nio-8080-exec-157] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:16:20.330 SEVERE [http-nio-8080-exec-157] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:537)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1682)
+		at jdk.internal.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:291)
+		at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+		at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+		at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1583)
+		at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:994)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:351)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:661)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:378)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:56)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1673)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:835)
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [MainServlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3205)
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3196)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1338)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1115)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:779)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5130)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 47 more
+05-Dec-2021 16:16:20.370 SEVERE [http-nio-8080-exec-157] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:757)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:537)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1682)
+		at jdk.internal.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:291)
+		at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+		at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+		at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1583)
+		at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:994)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:351)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:661)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:378)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:56)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1673)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:835)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		... 46 more
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [MainServlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3205)
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3196)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1338)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1115)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:779)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5130)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 47 more
+05-Dec-2021 16:16:20.431 INFO [http-nio-8080-exec-157] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [171] ms
+05-Dec-2021 16:16:34.801 INFO [http-nio-8080-exec-162] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:16:34.811 INFO [http-nio-8080-exec-154] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:16:34.871 SEVERE [http-nio-8080-exec-154] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:537)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1682)
+		at jdk.internal.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:291)
+		at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+		at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+		at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1583)
+		at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:994)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:351)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:661)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:378)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:56)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1673)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:835)
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [MainServlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3205)
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3196)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1338)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1115)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:779)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5130)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 47 more
+05-Dec-2021 16:16:35.001 SEVERE [http-nio-8080-exec-154] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:757)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:537)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1682)
+		at jdk.internal.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:291)
+		at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+		at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+		at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1583)
+		at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:994)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:351)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:661)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:378)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:56)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1673)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:835)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		... 46 more
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [MainServlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3205)
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3196)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1338)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1115)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:779)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5130)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 47 more
+05-Dec-2021 16:16:35.061 INFO [http-nio-8080-exec-154] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [250] ms
+05-Dec-2021 16:16:35.601 INFO [http-nio-8080-exec-154] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:16:35.611 INFO [http-nio-8080-exec-162] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:16:35.681 SEVERE [http-nio-8080-exec-162] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:537)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1682)
+		at jdk.internal.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:291)
+		at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+		at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+		at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1583)
+		at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:994)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:351)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:661)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:378)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:56)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1673)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:835)
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [MainServlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3205)
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3196)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1338)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1115)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:779)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5130)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 47 more
+05-Dec-2021 16:16:35.721 SEVERE [http-nio-8080-exec-162] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:757)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:537)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1682)
+		at jdk.internal.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:291)
+		at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+		at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+		at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1583)
+		at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:994)
+		at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:351)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:661)
+		at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:378)
+		at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:56)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1673)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:835)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		... 46 more
+	Caused by: java.lang.IllegalArgumentException: Servlet mapping specifies an unknown servlet name [MainServlet]
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3205)
+		at org.apache.catalina.core.StandardContext.addServletMappingDecoded(StandardContext.java:3196)
+		at org.apache.catalina.startup.ContextConfig.configureContext(ContextConfig.java:1338)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1115)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:779)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5130)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 47 more
+05-Dec-2021 16:16:35.781 INFO [http-nio-8080-exec-162] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [170] ms
+05-Dec-2021 16:16:59.181 INFO [http-nio-8080-exec-162] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:16:59.191 INFO [http-nio-8080-exec-160] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:16:59.281 INFO [http-nio-8080-exec-160] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:16:59.291 INFO [http-nio-8080-exec-160] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 16:16:59.291 INFO [http-nio-8080-exec-165] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:17:33.313 INFO [http-nio-8080-exec-170] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:17:33.322 INFO [http-nio-8080-exec-164] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:17:33.402 INFO [http-nio-8080-exec-164] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:17:33.422 INFO [http-nio-8080-exec-164] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 16:17:33.422 INFO [http-nio-8080-exec-167] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:19:41.894 INFO [http-nio-8080-exec-169] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:19:41.904 INFO [http-nio-8080-exec-179] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:19:41.984 INFO [http-nio-8080-exec-179] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:19:42.004 INFO [http-nio-8080-exec-179] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 16:19:42.004 INFO [http-nio-8080-exec-175] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:21:00.246 INFO [http-nio-8080-exec-180] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:21:00.256 INFO [http-nio-8080-exec-169] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:21:00.346 INFO [http-nio-8080-exec-169] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:21:00.356 INFO [http-nio-8080-exec-169] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 16:21:00.356 INFO [http-nio-8080-exec-183] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:44:26.319 INFO [http-nio-8080-exec-194] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:44:26.819 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:44:26.828 INFO [http-nio-8080-exec-191] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:44:26.918 INFO [http-nio-8080-exec-191] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:44:26.928 INFO [http-nio-8080-exec-191] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 16:44:26.938 INFO [http-nio-8080-exec-190] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:45:41.699 INFO [http-nio-8080-exec-203] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:45:41.708 INFO [http-nio-8080-exec-204] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:45:41.788 INFO [http-nio-8080-exec-204] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:45:41.798 INFO [http-nio-8080-exec-204] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [90] ms
+05-Dec-2021 16:45:41.808 INFO [http-nio-8080-exec-197] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:50:56.439 INFO [http-nio-8080-exec-213] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:50:56.448 INFO [http-nio-8080-exec-205] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:50:56.528 INFO [http-nio-8080-exec-205] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:50:56.538 INFO [http-nio-8080-exec-205] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [90] ms
+05-Dec-2021 16:50:56.548 INFO [http-nio-8080-exec-211] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:52:24.248 INFO [http-nio-8080-exec-221] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:52:24.257 INFO [http-nio-8080-exec-220] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:52:24.337 INFO [http-nio-8080-exec-220] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:52:24.347 INFO [http-nio-8080-exec-220] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [90] ms
+05-Dec-2021 16:52:24.357 INFO [http-nio-8080-exec-209] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:55:50.420 INFO [http-nio-8080-exec-232] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:55:50.433 INFO [http-nio-8080-exec-226] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:55:50.522 INFO [http-nio-8080-exec-226] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:55:50.537 INFO [http-nio-8080-exec-226] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [104] ms
+05-Dec-2021 16:55:50.540 INFO [http-nio-8080-exec-223] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:57:46.611 INFO [http-nio-8080-exec-240] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:57:46.621 INFO [http-nio-8080-exec-233] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:57:46.701 INFO [http-nio-8080-exec-233] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:57:46.711 INFO [http-nio-8080-exec-233] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [90] ms
+05-Dec-2021 16:57:46.721 INFO [http-nio-8080-exec-238] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:58:49.739 INFO [http-nio-8080-exec-236] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:58:49.748 INFO [http-nio-8080-exec-238] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:58:49.828 INFO [http-nio-8080-exec-238] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:58:49.838 INFO [http-nio-8080-exec-238] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [90] ms
+05-Dec-2021 16:58:49.838 INFO [http-nio-8080-exec-247] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 16:59:32.830 INFO [http-nio-8080-exec-254] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 16:59:32.839 INFO [http-nio-8080-exec-253] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 16:59:32.919 INFO [http-nio-8080-exec-253] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 16:59:32.929 INFO [http-nio-8080-exec-253] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [90] ms
+05-Dec-2021 16:59:32.929 INFO [http-nio-8080-exec-256] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 17:00:00.003 INFO [http-nio-8080-exec-260] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 17:00:00.012 INFO [http-nio-8080-exec-256] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 17:00:00.092 INFO [http-nio-8080-exec-256] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 17:00:00.102 INFO [http-nio-8080-exec-256] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [90] ms
+05-Dec-2021 17:00:00.102 INFO [http-nio-8080-exec-262] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 17:00:41.869 INFO [http-nio-8080-exec-266] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 17:00:41.878 INFO [http-nio-8080-exec-256] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 17:00:41.968 INFO [http-nio-8080-exec-256] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 17:00:41.988 INFO [http-nio-8080-exec-256] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 17:00:41.988 INFO [http-nio-8080-exec-262] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 18:19:51.098 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Dec-2021 18:19:51.098 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 18:19:51.264 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Dec-2021 18:19:51.287 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 18:19:51.303 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 20:07:02.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.73
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 11 2021 13:14:36 UTC
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.73.0
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-12.0.2
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            12+33
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\logging.properties
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-9VNKMU9
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\temp
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+05-Dec-2021 20:07:02.608 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [{4}].
+05-Dec-2021 20:07:02.638 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Dec-2021 20:07:02.648 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+05-Dec-2021 20:07:02.738 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 20:07:02.948 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Dec-2021 20:07:02.968 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1127 ms
+05-Dec-2021 20:07:03.108 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Dec-2021 20:07:03.108 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.73]
+05-Dec-2021 20:07:03.138 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:07:03.658 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:07:03.848 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [150] milliseconds.
+05-Dec-2021 20:07:03.868 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [730] ms
+05-Dec-2021 20:07:03.868 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs]
+05-Dec-2021 20:07:03.958 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs] has finished in [90] ms
+05-Dec-2021 20:07:03.958 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples]
+05-Dec-2021 20:07:05.508 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples] has finished in [1 550] ms
+05-Dec-2021 20:07:05.508 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager]
+05-Dec-2021 20:07:05.668 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager] has finished in [160] ms
+05-Dec-2021 20:07:05.668 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager]
+05-Dec-2021 20:07:05.798 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager] has finished in [130] ms
+05-Dec-2021 20:07:05.798 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT]
+05-Dec-2021 20:07:05.848 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT] has finished in [50] ms
+05-Dec-2021 20:07:05.868 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 20:07:05.938 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2970 ms
+05-Dec-2021 20:07:09.276 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:07:09.315 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:07:09.455 INFO [http-nio-8080-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:07:09.465 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [150] ms
+05-Dec-2021 20:07:09.475 INFO [http-nio-8080-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 20:08:56.142 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/WEB4]
+05-Dec-2021 20:08:56.142 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WEB4] has started
+05-Dec-2021 20:08:56.252 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:08:56.272 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WEB4] is completed
+05-Dec-2021 20:10:53.577 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:10:53.597 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:10:53.687 INFO [http-nio-8080-exec-14] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:10:53.707 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [121] ms
+05-Dec-2021 20:10:53.707 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 20:13:19.599 INFO [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:13:19.609 INFO [http-nio-8080-exec-22] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:13:19.709 INFO [http-nio-8080-exec-22] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:13:19.729 INFO [http-nio-8080-exec-22] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [120] ms
+05-Dec-2021 20:13:19.729 INFO [http-nio-8080-exec-27] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 20:14:08.812 INFO [http-nio-8080-exec-31] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:14:08.822 INFO [http-nio-8080-exec-37] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:14:08.912 INFO [http-nio-8080-exec-37] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:14:08.932 INFO [http-nio-8080-exec-37] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 20:14:08.932 INFO [http-nio-8080-exec-38] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 20:18:56.129 INFO [http-nio-8080-exec-47] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:18:56.138 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:18:56.228 INFO [http-nio-8080-exec-40] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:18:56.248 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 20:18:56.248 INFO [http-nio-8080-exec-46] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 20:39:09.360 INFO [http-nio-8080-exec-58] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:39:09.370 INFO [http-nio-8080-exec-54] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:39:09.469 INFO [http-nio-8080-exec-54] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:39:09.490 INFO [http-nio-8080-exec-54] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [120] ms
+05-Dec-2021 20:39:09.490 INFO [http-nio-8080-exec-55] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 20:43:25.981 INFO [http-nio-8080-exec-67] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:43:25.991 INFO [http-nio-8080-exec-66] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:43:26.091 INFO [http-nio-8080-exec-66] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:43:26.101 INFO [http-nio-8080-exec-66] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 20:43:26.101 INFO [http-nio-8080-exec-61] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 20:46:40.706 INFO [http-nio-8080-exec-77] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:46:40.716 INFO [http-nio-8080-exec-74] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:46:40.826 INFO [http-nio-8080-exec-74] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:46:40.836 INFO [http-nio-8080-exec-74] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [120] ms
+05-Dec-2021 20:46:40.836 INFO [http-nio-8080-exec-61] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 20:49:34.119 INFO [http-nio-8080-exec-74] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:49:34.148 INFO [http-nio-8080-exec-80] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:49:34.238 INFO [http-nio-8080-exec-80] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:49:34.258 INFO [http-nio-8080-exec-80] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 20:49:34.258 INFO [http-nio-8080-exec-79] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 20:58:41.449 INFO [http-nio-8080-exec-93] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:58:41.459 INFO [http-nio-8080-exec-94] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:58:41.569 INFO [http-nio-8080-exec-94] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:58:41.579 INFO [http-nio-8080-exec-94] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [120] ms
+05-Dec-2021 20:58:41.579 INFO [http-nio-8080-exec-85] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 20:59:30.551 INFO [http-nio-8080-exec-97] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 20:59:30.561 INFO [http-nio-8080-exec-85] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 20:59:30.661 INFO [http-nio-8080-exec-85] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 20:59:30.671 INFO [http-nio-8080-exec-85] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [110] ms
+05-Dec-2021 20:59:30.671 INFO [http-nio-8080-exec-96] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 21:06:49.437 INFO [http-nio-8080-exec-108] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 21:06:49.937 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 21:06:49.946 INFO [http-nio-8080-exec-100] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 21:06:50.036 INFO [http-nio-8080-exec-100] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 21:06:50.056 INFO [http-nio-8080-exec-100] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [100] ms
+05-Dec-2021 21:06:50.056 INFO [http-nio-8080-exec-101] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 21:07:24.237 INFO [http-nio-8080-exec-113] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 21:07:24.246 INFO [http-nio-8080-exec-114] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 21:07:24.446 INFO [http-nio-8080-exec-114] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 21:07:24.456 INFO [http-nio-8080-exec-114] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [210] ms
+05-Dec-2021 21:07:24.456 INFO [http-nio-8080-exec-112] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 21:07:41.917 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Dec-2021 21:07:41.917 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 21:07:42.090 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Dec-2021 21:07:42.110 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 21:07:42.110 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 22:42:16.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.73
+05-Dec-2021 22:42:16.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 11 2021 13:14:36 UTC
+05-Dec-2021 22:42:16.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.73.0
+05-Dec-2021 22:42:16.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Dec-2021 22:42:16.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+05-Dec-2021 22:42:16.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+05-Dec-2021 22:42:16.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-12.0.2
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            12+33
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\logging.properties
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-9VNKMU9
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\temp
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+05-Dec-2021 22:42:16.794 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [{4}].
+05-Dec-2021 22:42:16.834 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Dec-2021 22:42:16.884 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+05-Dec-2021 22:42:16.984 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 22:42:17.249 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Dec-2021 22:42:17.259 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1108 ms
+05-Dec-2021 22:42:17.349 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Dec-2021 22:42:17.349 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.73]
+05-Dec-2021 22:42:17.359 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 22:42:17.829 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 22:42:18.029 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [140] milliseconds.
+05-Dec-2021 22:42:18.049 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [690] ms
+05-Dec-2021 22:42:18.049 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs]
+05-Dec-2021 22:42:18.119 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs] has finished in [70] ms
+05-Dec-2021 22:42:18.119 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples]
+05-Dec-2021 22:42:18.959 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples] has finished in [840] ms
+05-Dec-2021 22:42:18.959 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager]
+05-Dec-2021 22:42:19.109 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager] has finished in [150] ms
+05-Dec-2021 22:42:19.109 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager]
+05-Dec-2021 22:42:19.209 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager] has finished in [100] ms
+05-Dec-2021 22:42:19.209 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT]
+05-Dec-2021 22:42:19.269 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT] has finished in [60] ms
+05-Dec-2021 22:42:19.269 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 22:42:19.289 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2028 ms
+05-Dec-2021 22:42:22.451 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 22:42:22.490 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 22:42:22.610 INFO [http-nio-8080-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 22:42:22.630 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [140] ms
+05-Dec-2021 22:42:22.640 INFO [http-nio-8080-exec-4] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 22:42:52.645 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Dec-2021 22:42:52.645 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 22:42:52.849 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Dec-2021 22:42:52.869 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 22:42:52.879 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.73
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 11 2021 13:14:36 UTC
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.73.0
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-12.0.2
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            12+33
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\logging.properties
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-9VNKMU9
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 23:17:10.565 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 23:17:10.575 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\temp
+05-Dec-2021 23:17:10.575 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+05-Dec-2021 23:17:10.575 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [{4}].
+05-Dec-2021 23:17:10.645 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Dec-2021 23:17:10.645 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+05-Dec-2021 23:17:10.695 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 23:17:10.891 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Dec-2021 23:17:10.901 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 735 ms
+05-Dec-2021 23:17:10.951 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Dec-2021 23:17:10.951 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.73]
+05-Dec-2021 23:17:10.961 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 23:17:11.351 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 23:17:11.531 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [140] milliseconds.
+05-Dec-2021 23:17:11.541 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [580] ms
+05-Dec-2021 23:17:11.551 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs]
+05-Dec-2021 23:17:11.571 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs] has finished in [20] ms
+05-Dec-2021 23:17:11.571 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples]
+05-Dec-2021 23:17:11.911 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples] has finished in [340] ms
+05-Dec-2021 23:17:11.911 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager]
+05-Dec-2021 23:17:11.951 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager] has finished in [40] ms
+05-Dec-2021 23:17:11.951 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager]
+05-Dec-2021 23:17:11.991 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager] has finished in [40] ms
+05-Dec-2021 23:17:11.991 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT]
+05-Dec-2021 23:17:12.031 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT] has finished in [40] ms
+05-Dec-2021 23:17:12.031 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 23:17:12.041 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1147 ms
+05-Dec-2021 23:17:14.126 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 23:17:14.147 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 23:17:14.275 INFO [http-nio-8080-exec-6] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 23:17:14.304 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [157] ms
+05-Dec-2021 23:17:14.304 INFO [http-nio-8080-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 23:20:08.959 INFO [http-nio-8080-exec-19] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 23:20:08.969 INFO [http-nio-8080-exec-18] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 23:20:09.089 INFO [http-nio-8080-exec-18] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 23:20:09.099 INFO [http-nio-8080-exec-18] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [130] ms
+05-Dec-2021 23:20:09.109 INFO [http-nio-8080-exec-14] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 23:20:53.787 INFO [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 23:20:53.796 INFO [http-nio-8080-exec-19] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 23:20:53.906 INFO [http-nio-8080-exec-19] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 23:20:53.916 INFO [http-nio-8080-exec-19] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [120] ms
+05-Dec-2021 23:20:53.926 INFO [http-nio-8080-exec-18] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 23:21:31.622 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Dec-2021 23:21:31.622 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 23:21:31.766 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Dec-2021 23:21:31.791 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 23:21:31.791 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.73
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 11 2021 13:14:36 UTC
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.73.0
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-12.0.2
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            12+33
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\logging.properties
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-9VNKMU9
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_shmem,address=tomcat_shared_memory_id,server=y,suspend=n
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\temp
+05-Dec-2021 23:21:39.526 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+05-Dec-2021 23:21:39.536 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [{4}].
+05-Dec-2021 23:21:39.536 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Dec-2021 23:21:39.536 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+05-Dec-2021 23:21:39.586 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 23:21:39.786 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Dec-2021 23:21:39.796 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 774 ms
+05-Dec-2021 23:21:39.856 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Dec-2021 23:21:39.856 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.73]
+05-Dec-2021 23:21:39.866 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 23:21:40.333 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 23:21:40.523 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [150] milliseconds.
+05-Dec-2021 23:21:40.543 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [677] ms
+05-Dec-2021 23:21:40.553 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs]
+05-Dec-2021 23:21:40.573 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\docs] has finished in [20] ms
+05-Dec-2021 23:21:40.573 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples]
+05-Dec-2021 23:21:40.933 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\examples] has finished in [360] ms
+05-Dec-2021 23:21:40.933 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager]
+05-Dec-2021 23:21:40.983 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\host-manager] has finished in [50] ms
+05-Dec-2021 23:21:40.983 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager]
+05-Dec-2021 23:21:41.033 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\manager] has finished in [40] ms
+05-Dec-2021 23:21:41.033 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT]
+05-Dec-2021 23:21:41.053 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\webapps\ROOT] has finished in [20] ms
+05-Dec-2021 23:21:41.063 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 23:21:41.073 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1271 ms
+05-Dec-2021 23:21:46.688 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 23:21:46.698 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 23:21:46.868 INFO [http-nio-8080-exec-10] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 23:21:46.898 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [200] ms
+05-Dec-2021 23:21:46.898 INFO [http-nio-8080-exec-3] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 23:22:31.451 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 23:22:31.961 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WEB4]
+05-Dec-2021 23:23:30.506 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml]
+05-Dec-2021 23:23:30.656 INFO [http-nio-8080-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2021 23:23:30.676 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\Desktop\WEB\apache-tomcat-8.5.73\conf\Catalina\localhost\WEB4.xml] has finished in [170] ms
+05-Dec-2021 23:23:30.676 INFO [http-nio-8080-exec-11] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WEB4]] after start() had already been called. The second call will be ignored.
+05-Dec-2021 23:34:08.896 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Dec-2021 23:34:08.896 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 23:34:09.048 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Dec-2021 23:34:09.078 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Dec-2021 23:34:09.086 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
